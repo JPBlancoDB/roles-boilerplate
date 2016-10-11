@@ -1,0 +1,24 @@
+.skin-blue .content-header {
+    background-color: #f0f0f0;
+    padding: 0px 15px 0 15px;
+}
+
+.content-header-menu {
+    background: #f9f9f9;
+    border-bottom: 1px solid #d4d7da;
+    margin: 0 -10px 10px;
+    padding: 20px 15px;
+}
+
+.content-header-menu-left {
+    float: left;
+    font-size: 24px;
+}
+
+.content-header-menu-right {
+    float: right;
+}
+
+.sidebar-menu {
+    font-size: 16px;
+}
